@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 57, 121, 1) 50%,
+    rgb(255, 177, 59) 90%,
+    rgb(116, 0, 0) 100%
+  );
+  color: #b9d;
+  text-align: center;
+  padding: 0;
+  height: 90%;
+  display: grid;
+  align-items: center;
+}
+
+h1 {
+  font-size: 5vw;
+}
+
+h3 {
+  font-size: 4vw;
+}
+
+#app {
+  margin-bottom: 0;
+}
