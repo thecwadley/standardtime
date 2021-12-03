@@ -1,5 +1,3 @@
-import "./styles.css";
-
 document.getElementsByTagName("body").height = window.innerHeight;
 
 var realTimeDisp = document.getElementById("realTime");
